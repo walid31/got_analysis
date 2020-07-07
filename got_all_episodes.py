@@ -49,5 +49,7 @@ df = pd.concat(appended_data)
 df['person'] = df['person'].str.lower()
 df['person'] = df['person'].str.replace('/','')
 df['person'] = df['person'].str.replace(r"\(.*\)","") # Delete everything between brackets
+df['person'] = df['person'].str.replace(r'^(\s*(?:\S+\s+){1})\S+',r'\1') # Delete last name
+df['person'] = df['person'].str.strip() # Delete preceding space
 
 
