@@ -16,6 +16,22 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 Script in progress
 The camera floats over the painted table showing detailed carvings of rivers, holdfasts, and cities.  A fire burns in the hearth.
 CUT TO:  BEYOND THE WALL

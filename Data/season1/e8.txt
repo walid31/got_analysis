@@ -16,6 +16,22 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 Entering King's Landing, we see Syrio Forel dancing with Arya.
 Syrio Forel:  Yah! Left high, left low.
 How ironic it seems, how peacefully Arya and Syrio are dancing, near the Throne room, the Kings Guard fights a few Stark men.

@@ -52,4 +52,19 @@ df['person'] = df['person'].str.replace(r"\(.*\)","") # Delete everything betwee
 df['person'] = df['person'].str.replace(r'^(\s*(?:\S+\s+){1})\S+',r'\1') # Delete last name
 df['person'] = df['person'].str.strip() # Delete preceding space
 
+# ----------- Second DataFrame formatting--------------
+
+read_file = pd.read_csv(r'got_characters.txt', header= 0, error_bad_lines=False)
+read_file.to_csv(r'characters.csv', index=None)
+
+df1 = pd.read_csv('characters.csv')
+df1.drop(df1.columns[0],axis = 1, inplace = True)
+
+df1['name'] = df1['name'].str.lower()
+# df1['name'] = df1['name'].str.replace(r'^(\s*(?:\S+\s+){1})\S+',r'\1') # Delete last name
+df1['name'] = df1['name'].str.strip() # Delete preceding space
+df1.loc[(df1.name == 'khal'),'name']='khal drogo'
+
+print(df1)
+print(df1.name.unique())
 

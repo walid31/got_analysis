@@ -16,6 +16,22 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 At the King’s Landing catacombs, Varys goes out to see Ned Stark.
 Varys:  You've seen better days, my lord.
 Eddard Stark:  Another visit? lt seems you're my last friend.

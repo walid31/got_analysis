@@ -16,6 +16,22 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 Longclaw is lying on a table. DOLOROUS EDD lifts and admires it, then turns to JON SNOW who is putting some items in a bag.
 DOLOROUS EDD: Where you gonna go?
 JON SNOW: South.

@@ -16,6 +16,22 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 EXT: The sea outside Braavos.
 STANNIS and DAVOS ride a Baratheon ship through the legs of a massive statue of a Colossus.
 INT: Opulent Braavos chamber
