@@ -1,12 +1,15 @@
+from collections import Counter
 import pandas as pd
 import numpy as np
 from tabulate import tabulate
 import matplotlib.pyplot as plt
+import random
 import plotly.express as px
 from plotly.subplots import make_subplots
 import matplotlib
 from matplotlib.font_manager import FontProperties
 import squarify  
+from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 df = pd.read_csv("Data/all_episodes.csv")
 df.rename(columns = {' s': 'sex'}, inplace=True)
@@ -44,10 +47,35 @@ fig = px.bar(df3,
              color = 'sex',
              barmode = 'stack')
 
-fig.show()
+# fig.show()
 
 # --------------- per name wordcloud -----------------------
 df4 = df[df['name'] == 'arya']
 
-word = ''
+words = ''
+
+for i in df4.line.values:
+    words += '{} '.format(i.lower()) # make all words lowercase
+
+wd = pd.DataFrame(Counter(words.split()).most_common(200), columns=['word', 'frequency'])
+wd = wd.iloc[50:]
+
+print(wd)
+
+data = dict(zip(wd['word'].tolist(), wd['frequency'].tolist()))
+def grey_color_func(word, font_size, position, orientation, random_state=None, **kwargs):
+    return "hsl(0, 0%%,%d%%)" % random.randint(30,70)
+
+wc = WordCloud(background_color='white',
+                stopwords=STOPWORDS,
+                width=800,
+                height=400,
+                max_words=200).generate_from_frequencies(data)
+plt.figure(figsize=(10,10))
+plt.imshow(wc, interpolation='bilinear')
+plt.imshow(wc.recolor(color_func=grey_color_func, random_state=3),
+                interpolation='bilinear')
+plt.axis('off')
+plt.show()
+
 
