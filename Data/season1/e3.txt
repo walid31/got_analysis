@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 The King, Eddard and the rest of the posse have arrived at King’s Landing.
 King’s Landing Guard: Welcome, Lord Stark. Grand Maester Pycelle has called a meeting of the Small Council. The honor of your presence is requested.
 Eddard Stark: Get the girls settled in. I'll be back in time for supper. And, Jory, you go with them.

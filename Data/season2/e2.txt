@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 COLD OPEN
 INT. SMALL COUNCIL CHAMBER
 CERSEI: What are you doing here?

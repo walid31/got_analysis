@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 King's Landing, Ned Stark arrives at the grounds where the Tourney of the Hand will take place. He enters a tent where Ser Hugh (deceased) is being tended to, he enters to speak with Barristan.
 Eddard Stark: Does Ser Hugh have any family in the capital?
 Barristan Selmy: No. I stood vigil for him myself last night. He had no one else.

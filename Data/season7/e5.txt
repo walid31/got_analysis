@@ -56,6 +56,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 JAIME:  You could have killed me.
 BRONN:  What the fuck were you doing back there?
 JAIME:  Ending the war by killing her.

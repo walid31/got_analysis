@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 INT: KING'S LANDING
 TYRION wakes to echos of the sounds of battle. PYCELLE's face comes into focus. TYRION's head is crudely bandaged, with only one eye revealed. He is disoriented.
 TYRION: Pod.

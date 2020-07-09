@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 Melisandre looks at the icicles hanging outside her tent and sees that they are melting.
 Melisandre walks to find Stannis, stepping in a pile of mud on the way.
 Stannis straps his armor on.

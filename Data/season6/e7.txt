@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 MAN: That’s it. Get it to the top.
 MAN #2: Steady. Steady.
 BROTHER RAY is standing beneath the framing, addressing two men who are hoisting up a log.

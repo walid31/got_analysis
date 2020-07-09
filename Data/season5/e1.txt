@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 TITLE SEQUENCE
 EXT. WOODS
 A younger Cersei and her friend Melara are walking in the woods.

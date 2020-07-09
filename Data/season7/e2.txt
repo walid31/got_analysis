@@ -56,6 +56,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 TYRION: On a night like this, you came into the world.
 VARYS: I remember that storm. All the dogs in King's Landing howled through the night.
 DAENERYS: I wish I could remember it.

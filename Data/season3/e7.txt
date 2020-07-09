@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 EXT: The North
 Just south of the wall, the wildlings march across the green expanse of the North.
 YGRITTE: How far are we?

@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 EXT. SHADOWLANDS
 RENLY's encampment at night. The camp is alive with activity, in spite of the late hour. Soldiers move in every direction
 INT. RENLY's tent. RENLY and CATELYN are seated across from one another while BRIENNE stands at guard.

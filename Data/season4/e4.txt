@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 EXT. MEEREEN AT NIGHT
 A Tent outside of Meereen.
 MISSANDEI is teaching GREY WORM how to read by a fire.

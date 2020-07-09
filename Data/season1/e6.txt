@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 Opens at King’s Landing, assumed to be Ned’s quarters. He opens his eyes to find Cersei and King Robert at his bedside.
 Eddard Stark: Your pardon, your Grace.
 Cersei Baratheon: Do you know what your wife has done?

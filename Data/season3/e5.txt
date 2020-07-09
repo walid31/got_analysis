@@ -55,6 +55,7 @@ person:line
 person:line
 person:line
 person:line
+person:line
 INT: Riverlands, the caverns of the Brotherhood without Banners
 THOROS looks into the fire.
 THOROS: Lord, cast your light upon us.
