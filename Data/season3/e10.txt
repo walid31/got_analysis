@@ -32,6 +32,29 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 EXT: The Twins, Night
 ROOSE BOLTON climbs the stairs to the top of the Twins. The sounds of the battle below draw him to the edge.  The Stark camp is engulfed in flames as the battle rages on.
 CUT TO: The Stark encampment

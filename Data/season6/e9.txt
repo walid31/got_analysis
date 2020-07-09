@@ -32,6 +32,29 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 TYRION: Despite appearances, I think you’ll find the city’s on the rise.
 An explosion occurs outside.
 TYRION: Perhaps we should take shelter.

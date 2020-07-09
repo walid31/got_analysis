@@ -32,6 +32,29 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
+person:line
 INT: WINTERFELL
 THEON wakes and notices that OSHA has gone.
 EXT: WINTERFELL
