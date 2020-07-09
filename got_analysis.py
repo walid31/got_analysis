@@ -76,6 +76,22 @@ plt.imshow(wc, interpolation='bilinear')
 plt.imshow(wc.recolor(color_func=grey_color_func, random_state=3),
                 interpolation='bilinear')
 plt.axis('off')
-plt.show()
+# plt.show()
+
+# --------------------- Exclamation marks ------------------------
+df['exc'] = df['line'].map(lambda x: x.count('!'))
+df['ques'] = df['line'].map(lambda x: x.count('?'))
+
+df5 = df.groupby(['name', 'sex'])['exc'].sum().reset_index()
+df6 = df.groupby(['name'])['ques'].sum().reset_index()
+
+expression = df5.merge(df6, left_on='name', right_on='name')
+
+fig = px.bar(expression,
+             x='name',
+             y='exc',
+             color='sex')
+
+fig.show()
 
 
