@@ -76,7 +76,7 @@ plt.imshow(wc, interpolation='bilinear')
 plt.imshow(wc.recolor(color_func=grey_color_func, random_state=3),
                 interpolation='bilinear')
 plt.axis('off')
-# plt.show()
+plt.show()
 
 # --------------------- Exclamation marks ------------------------
 df['exc'] = df['line'].map(lambda x: x.count('!'))
