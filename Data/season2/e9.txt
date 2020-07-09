@@ -56,6 +56,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 EXT. THE SEA AT NIGHT
 STANNIS's fleet sails through the night.
 DAVOS walks the deck, and looks out the stern at the rest of the ships.

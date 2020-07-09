@@ -56,6 +56,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 TITLE SEQUENCEINT. ROOM
 Grey Worm lays in a bed, asleep. Missandei stands over him, crying.
 INT. THRONE ROOM

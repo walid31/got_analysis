@@ -56,6 +56,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 Daenerys on horseback looking at Drogo and his people.
 Jorah Mormont: You need to drink, child... And eat.
 Daenerys Targaryen: Isn't there anything else?

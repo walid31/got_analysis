@@ -57,6 +57,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 WALDER FREY: You're wonder why I brought you all here. After all, we just had a feast. Since when does old Walder give us two feasts in a single fortnight?
 The Freys laugh.
 WALDER FREY: Well, it's no good being lord of the Riverlands if you can't celebrate with your family. That's what I say!

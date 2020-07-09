@@ -56,6 +56,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 INT. King's Landing, Tyrion's Cell, day
 JAIME and TYRION stand in the jail cell.
 JAIME: I made a deal for you to keep your ungrateful head on your ungrateful neck a little while longer.

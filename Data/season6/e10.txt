@@ -56,6 +56,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 TOMMEN is being dressed by an attendant.
 MARGAERY is being dressed by a handmaiden.
 The HIGH SPARROW dresses himself in a roughspun tunic, sliding his hands through the sleeves one by one.

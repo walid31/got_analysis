@@ -57,6 +57,8 @@ person:line
 person:line
 person:line
 person:line
+person:line
+person:line
 JAIME:  Halt that wagon!
 JAIME opens the carriage.  It is filled with gold bars and coins.  He picks up a large sack and hands it to BRONN.
 BRONN:  You just won the biggest prize in the world.  What could you possibly have to be upset about?  Come on.  You can tell me.  Queen of Thorns give you one last prick in the balls before saying goodbye?
